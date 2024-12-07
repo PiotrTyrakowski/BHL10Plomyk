@@ -1,0 +1,6 @@
+enum LyfHotels {
+  Funan,
+  Sukhumvit,
+}
+
+
